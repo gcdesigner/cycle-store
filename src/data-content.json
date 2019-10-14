@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "thumbnail": "https://assets.xtechcommerce.com/uploads/images/medium/87b908fa4d755d0eb34aa72798b2eae4.png",
+      "title": "Hercules Roadeo 1",
+      "subtitle": "Maverick 26 T Mountain",
+      "price": 500,
+      "totalPrice": 800,
+      "descount": 45
+    },
+    {
+      "id": "2",
+      "thumbnail": "https://assets.xtechcommerce.com/uploads/images/medium/43e281373b0984c2f3efd9ca4fcf3c30.png",
+      "title": "Hercules Roadeo 2",
+      "subtitle": "Maverick 26 T Mountain",
+      "price": 500,
+      "totalPrice": 800,
+      "descount": 45
+    },
+    {
+      "id": "3",
+      "thumbnail": "https://images.tcdn.com.br/img/img_prod/470529/bicicleta_dobravel_two_dogs_pliage_plus_laranja_416_1_20180813173535.png",
+      "title": "Hercules Roadeo 3",
+      "subtitle": "Maverick 26 T Mountain",
+      "price": 500,
+      "totalPrice": 800,
+      "descount": 45
+    },
+    {
+      "id": "4",
+      "thumbnail": "https://cdn.dooca.store/4/products/bicicleta-29-soul-magma-ht529-carb-20v-sram-x9.png?v=1565634202",
+      "title": "Hercules Roadeo 4",
+      "subtitle": "Maverick 26 T Mountain",
+      "price": 500,
+      "totalPrice": 800,
+      "descount": 45
+    },
+    {
+      "id": "5",
+      "thumbnail": "https://cdn.ecvol.com/s/www.raquelbikes.com.br/produtos/bicicleta-29-oggi-big-wheel-70-27v-preto-verde-2019/g/0.png?v=0",
+      "title": "Hercules Roadeo 5",
+      "subtitle": "Maverick 26 T Mountain",
+      "price": 500,
+      "totalPrice": 800,
+      "descount": 45
+    }
+  ]
+}
