@@ -1,7 +1,8 @@
 import styled from 'styled-components';
+import colors from '../../style/colors'
 
 export const MyButton = styled.TouchableOpacity`
-  background: #24abbc;
+  background: ${colors.primary};
   border-radius: 30;
   padding: 15px 15px;
 `;

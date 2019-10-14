@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import colors from '../../style/colors'
 
 export const Container = styled.View`
   width: 48%;
@@ -8,6 +9,7 @@ export const Container = styled.View`
   margin-bottom: 10px;
   margin-right: 10px;
   align-self: center;
+  elevation: 1;
 `;
 
 export const Image = styled.Image`
@@ -48,5 +50,6 @@ export const PriceTotal = styled.Text`
 
 export const Descount = styled.Text`
   font-size: 10px;
-  color: blue;
+  font-weight: bold;
+  color: ${colors.primary};
 `;

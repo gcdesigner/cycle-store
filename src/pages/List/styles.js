@@ -10,14 +10,14 @@ export const Header = styled.View`
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 `;
 
 export const Logo = styled.Image`
   flex: 1;
-  height: 70px;
+  height: 40px;
   resizeMode: contain;
-  margin-top: 30px;
+  margin-top: 15px;
 `;
 
 export const Icon = styled.View`
@@ -26,20 +26,20 @@ export const Icon = styled.View`
 
 export const Search = styled.View`
   position: relative;
+  background: #fff;
+  border-radius: 30px;
+  elevation: 1;
 `;
 
 export const Input = styled.TextInput`
   padding: 8px 10px 8px 45px;
-  background: #fff;
-  border-radius: 30px;
-  /* elevation: 2; */
 `;
 
 export const NavCategories = styled.View`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 0;
+  padding: 20px 0;
 `;
 
 export const ButtonCategory = styled.TouchableOpacity`

@@ -1,10 +1,11 @@
 import styled from 'styled-components';
+import colors from '../../style/colors'
 
 export const Container = styled.View`
   flex: 1;
   justify-content: center;
   align-items: center;
-  background: #071f2d;
+  background: ${colors.primaryDark};
 `;
 
 export const Background = styled.ImageBackground`
@@ -17,8 +18,7 @@ export const Background = styled.ImageBackground`
 `;
 
 export const Logo = styled.Image`
-  width: 300px;
-  height:150px;
+  height:60px;
   resizeMode: contain;
   margin-bottom: 50px;
 `;
